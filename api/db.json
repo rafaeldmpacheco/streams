@@ -1,37 +1,20 @@
 {
   "streams": [
     {
-      "title": "My Stream",
-      "description": "This is a great stream.",
+      "title": "Stream title",
+      "description": "Stream description",
       "id": 1
     },
     {
-      "title": "Other Stream",
-      "description": "Here's some stream",
+      "title": "Stream title 2",
+      "description": "Stream description 2",
       "id": 2
-    },
-    {
-      "title": "Me Streaming Component Reuse!",
-      "description": "This stream is about refactoring!!!",
-      "id": 4
-    },
-    {
-      "title": "I created this stream",
-      "description": "This was made by me!",
-      "userId": "107801881974966017001",
-      "id": 5
     },
     {
       "title": "Programmatic Navigation",
       "description": "Description",
       "userId": "107801881974966017001",
       "id": 6
-    },
-    {
-      "title": "Component Reuse",
-      "description": "Description 1",
-      "userId": "107801881974966017001",
-      "id": 7
     }
   ]
 }
